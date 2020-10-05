@@ -30,16 +30,30 @@
             ]
         },
         {
-            "name":"",
-            "lastname":"",
+            "name":"Rodrigo",
+            "lastname":"Meroño",
             "subjects":[
                 {
-                    "name":"",
-                    "mark":""
+                    "name":"Maths",
+                    "mark":"8"
                 },
                 {
-                    "name":"",
-                    "mark":""
+                    "name":"Science",
+                    "mark":"4"
+                }
+            ]
+        },
+        {
+            "name":"Alba",
+            "lastname":"Linares",
+            "subjects":[
+                {
+                    "name":"Maths",
+                    "mark":"10"
+                },
+                {
+                    "name":"Science",
+                    "mark":"9"
                 }
             ]
         }
