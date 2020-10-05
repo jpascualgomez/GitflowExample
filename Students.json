@@ -1,0 +1,48 @@
+{   
+    "students":[
+
+        {
+            "name":"Pedro",
+            "lastname":"Rodríguez",
+            "subjects":[
+                {
+                    "name":"Maths",
+                    "mark":"8"
+                },
+                {
+                    "name":"Science",
+                    "mark":"7"
+                }
+            ]
+        },
+        {
+            "name":"",
+            "lastname":"",
+            "subjects":[
+                {
+                    "name":"",
+                    "mark":""
+                },
+                {
+                    "name":"",
+                    "mark":""
+                }
+            ]
+        },
+        {
+            "name":"",
+            "lastname":"",
+            "subjects":[
+                {
+                    "name":"",
+                    "mark":""
+                },
+                {
+                    "name":"",
+                    "mark":""
+                }
+            ]
+        }
+            
+    ]
+}
