@@ -98,6 +98,20 @@
                     "mark":"9"
                 }
             ]
+        },
+        {
+            "name":"Lidya",
+            "lastname":"Pascual",
+            "subjects":[
+                {
+                    "name":"Maths",
+                    "mark":"10"
+                },
+                {
+                    "name":"Science",
+                    "mark":"9"
+                }
+            ]
         }
             
     ]
