@@ -70,6 +70,20 @@
                     "mark":"9"
                 }
             ]
+        },
+        {
+            "name":"Jose",
+            "lastname":"Altamira",
+            "subjects":[
+                {
+                    "name":"Maths",
+                    "mark":"10"
+                },
+                {
+                    "name":"Science",
+                    "mark":"9"
+                }
+            ]
         }
             
     ]
