@@ -84,6 +84,20 @@
                     "mark":"9"
                 }
             ]
+        },
+        {
+            "name":"Ana",
+            "lastname":"Giménez",
+            "subjects":[
+                {
+                    "name":"Maths",
+                    "mark":"10"
+                },
+                {
+                    "name":"Science",
+                    "mark":"9"
+                }
+            ]
         }
             
     ]
